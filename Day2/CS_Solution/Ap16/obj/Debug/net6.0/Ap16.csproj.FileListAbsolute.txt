@@ -1,0 +1,15 @@
+/Users/jess88tw/Visual Studio/Day2/CS_Solution/Ap16/bin/Debug/net6.0/Ap16
+/Users/jess88tw/Visual Studio/Day2/CS_Solution/Ap16/bin/Debug/net6.0/Ap16.deps.json
+/Users/jess88tw/Visual Studio/Day2/CS_Solution/Ap16/bin/Debug/net6.0/Ap16.runtimeconfig.json
+/Users/jess88tw/Visual Studio/Day2/CS_Solution/Ap16/bin/Debug/net6.0/Ap16.dll
+/Users/jess88tw/Visual Studio/Day2/CS_Solution/Ap16/bin/Debug/net6.0/Ap16.pdb
+/Users/jess88tw/Visual Studio/Day2/CS_Solution/Ap16/obj/Debug/net6.0/Ap16.csproj.AssemblyReference.cache
+/Users/jess88tw/Visual Studio/Day2/CS_Solution/Ap16/obj/Debug/net6.0/Ap16.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jess88tw/Visual Studio/Day2/CS_Solution/Ap16/obj/Debug/net6.0/Ap16.AssemblyInfoInputs.cache
+/Users/jess88tw/Visual Studio/Day2/CS_Solution/Ap16/obj/Debug/net6.0/Ap16.AssemblyInfo.cs
+/Users/jess88tw/Visual Studio/Day2/CS_Solution/Ap16/obj/Debug/net6.0/Ap16.csproj.CoreCompileInputs.cache
+/Users/jess88tw/Visual Studio/Day2/CS_Solution/Ap16/obj/Debug/net6.0/Ap16.dll
+/Users/jess88tw/Visual Studio/Day2/CS_Solution/Ap16/obj/Debug/net6.0/refint/Ap16.dll
+/Users/jess88tw/Visual Studio/Day2/CS_Solution/Ap16/obj/Debug/net6.0/Ap16.pdb
+/Users/jess88tw/Visual Studio/Day2/CS_Solution/Ap16/obj/Debug/net6.0/Ap16.genruntimeconfig.cache
+/Users/jess88tw/Visual Studio/Day2/CS_Solution/Ap16/obj/Debug/net6.0/ref/Ap16.dll

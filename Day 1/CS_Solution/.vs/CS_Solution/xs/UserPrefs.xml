@@ -1,0 +1,61 @@
+﻿<Properties StartupConfiguration="{26A29A8F-D55B-4297-8FC3-24F8C0326D25}|Default">
+  <MonoDevelop.Ide.ItemProperties.Ap13 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Ap11 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Ap08 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Ap04 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Ap05 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Ap12 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Ap02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Ap06 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Ap14 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Ap01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <DisabledProjects>
+    <String>Ap15/Ap15.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.Ap10 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Ap09 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Ap07 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Ap03 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ap14/Program.cs">
+    <Files>
+      <File FileName="Ap01/Program.cs" Line="4" Column="1" />
+      <File FileName="Ap02/Program.cs" Line="1" Column="1" />
+      <File FileName="Ap03/Program.cs" Line="1" Column="1" />
+      <File FileName="Ap04/Program.cs" Line="1" Column="1" />
+      <File FileName="Ap05/Program.cs" Line="1" Column="1" />
+      <File FileName="Ap06/Program.cs" Line="1" Column="1" />
+      <File FileName="Ap07/Program.cs" Line="1" Column="1" />
+      <File FileName="Ap08/Program.cs" Line="1" Column="1" />
+      <File FileName="Ap09/Program.cs" Line="1" Column="1" />
+      <File FileName="Ap14/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CS_Solution" expanded="True">
+            <Node name="Ap02" expanded="True" />
+            <Node name="Ap03" expanded="True" />
+            <Node name="Ap04" expanded="True" />
+            <Node name="Ap05" expanded="True" />
+            <Node name="Ap06" expanded="True" />
+            <Node name="Ap08" expanded="True" />
+            <Node name="Ap09" expanded="True" />
+            <Node name="Ap10" expanded="True" />
+            <Node name="Ap14" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

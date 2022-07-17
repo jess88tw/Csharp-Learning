@@ -1,0 +1,15 @@
+/Users/jess88tw/Projects/CS_Solution/Ap02/bin/Debug/net6.0/Ap02
+/Users/jess88tw/Projects/CS_Solution/Ap02/bin/Debug/net6.0/Ap02.deps.json
+/Users/jess88tw/Projects/CS_Solution/Ap02/bin/Debug/net6.0/Ap02.runtimeconfig.json
+/Users/jess88tw/Projects/CS_Solution/Ap02/bin/Debug/net6.0/Ap02.dll
+/Users/jess88tw/Projects/CS_Solution/Ap02/bin/Debug/net6.0/Ap02.pdb
+/Users/jess88tw/Projects/CS_Solution/Ap02/obj/Debug/net6.0/Ap02.csproj.AssemblyReference.cache
+/Users/jess88tw/Projects/CS_Solution/Ap02/obj/Debug/net6.0/Ap02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jess88tw/Projects/CS_Solution/Ap02/obj/Debug/net6.0/Ap02.AssemblyInfoInputs.cache
+/Users/jess88tw/Projects/CS_Solution/Ap02/obj/Debug/net6.0/Ap02.AssemblyInfo.cs
+/Users/jess88tw/Projects/CS_Solution/Ap02/obj/Debug/net6.0/Ap02.csproj.CoreCompileInputs.cache
+/Users/jess88tw/Projects/CS_Solution/Ap02/obj/Debug/net6.0/Ap02.dll
+/Users/jess88tw/Projects/CS_Solution/Ap02/obj/Debug/net6.0/refint/Ap02.dll
+/Users/jess88tw/Projects/CS_Solution/Ap02/obj/Debug/net6.0/Ap02.pdb
+/Users/jess88tw/Projects/CS_Solution/Ap02/obj/Debug/net6.0/Ap02.genruntimeconfig.cache
+/Users/jess88tw/Projects/CS_Solution/Ap02/obj/Debug/net6.0/ref/Ap02.dll

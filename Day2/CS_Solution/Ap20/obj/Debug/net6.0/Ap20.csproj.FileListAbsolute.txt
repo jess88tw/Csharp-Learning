@@ -1,0 +1,15 @@
+/Users/jess88tw/Visual Studio/Day2/CS_Solution/Ap20/obj/Debug/net6.0/Ap20.csproj.AssemblyReference.cache
+/Users/jess88tw/Visual Studio/Day2/CS_Solution/Ap20/obj/Debug/net6.0/Ap20.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jess88tw/Visual Studio/Day2/CS_Solution/Ap20/obj/Debug/net6.0/Ap20.AssemblyInfoInputs.cache
+/Users/jess88tw/Visual Studio/Day2/CS_Solution/Ap20/obj/Debug/net6.0/Ap20.AssemblyInfo.cs
+/Users/jess88tw/Visual Studio/Day2/CS_Solution/Ap20/obj/Debug/net6.0/Ap20.csproj.CoreCompileInputs.cache
+/Users/jess88tw/Visual Studio/Day2/CS_Solution/Ap20/bin/Debug/net6.0/Ap20
+/Users/jess88tw/Visual Studio/Day2/CS_Solution/Ap20/bin/Debug/net6.0/Ap20.deps.json
+/Users/jess88tw/Visual Studio/Day2/CS_Solution/Ap20/bin/Debug/net6.0/Ap20.runtimeconfig.json
+/Users/jess88tw/Visual Studio/Day2/CS_Solution/Ap20/bin/Debug/net6.0/Ap20.dll
+/Users/jess88tw/Visual Studio/Day2/CS_Solution/Ap20/bin/Debug/net6.0/Ap20.pdb
+/Users/jess88tw/Visual Studio/Day2/CS_Solution/Ap20/obj/Debug/net6.0/Ap20.dll
+/Users/jess88tw/Visual Studio/Day2/CS_Solution/Ap20/obj/Debug/net6.0/refint/Ap20.dll
+/Users/jess88tw/Visual Studio/Day2/CS_Solution/Ap20/obj/Debug/net6.0/Ap20.pdb
+/Users/jess88tw/Visual Studio/Day2/CS_Solution/Ap20/obj/Debug/net6.0/Ap20.genruntimeconfig.cache
+/Users/jess88tw/Visual Studio/Day2/CS_Solution/Ap20/obj/Debug/net6.0/ref/Ap20.dll
