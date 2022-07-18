@@ -1,0 +1,17 @@
+C:\Users\GameToGo\Desktop\新增資料夾\CS-Solution\WinFormsApp14\bin\Debug\net6.0-windows\WinFormsApp14.exe
+C:\Users\GameToGo\Desktop\新增資料夾\CS-Solution\WinFormsApp14\bin\Debug\net6.0-windows\WinFormsApp14.deps.json
+C:\Users\GameToGo\Desktop\新增資料夾\CS-Solution\WinFormsApp14\bin\Debug\net6.0-windows\WinFormsApp14.runtimeconfig.json
+C:\Users\GameToGo\Desktop\新增資料夾\CS-Solution\WinFormsApp14\bin\Debug\net6.0-windows\WinFormsApp14.dll
+C:\Users\GameToGo\Desktop\新增資料夾\CS-Solution\WinFormsApp14\bin\Debug\net6.0-windows\WinFormsApp14.pdb
+C:\Users\GameToGo\Desktop\新增資料夾\CS-Solution\WinFormsApp14\obj\Debug\net6.0-windows\WinFormsApp14.csproj.AssemblyReference.cache
+C:\Users\GameToGo\Desktop\新增資料夾\CS-Solution\WinFormsApp14\obj\Debug\net6.0-windows\WinFormsApp14.Form1.resources
+C:\Users\GameToGo\Desktop\新增資料夾\CS-Solution\WinFormsApp14\obj\Debug\net6.0-windows\WinFormsApp14.csproj.GenerateResource.cache
+C:\Users\GameToGo\Desktop\新增資料夾\CS-Solution\WinFormsApp14\obj\Debug\net6.0-windows\WinFormsApp14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GameToGo\Desktop\新增資料夾\CS-Solution\WinFormsApp14\obj\Debug\net6.0-windows\WinFormsApp14.AssemblyInfoInputs.cache
+C:\Users\GameToGo\Desktop\新增資料夾\CS-Solution\WinFormsApp14\obj\Debug\net6.0-windows\WinFormsApp14.AssemblyInfo.cs
+C:\Users\GameToGo\Desktop\新增資料夾\CS-Solution\WinFormsApp14\obj\Debug\net6.0-windows\WinFormsApp14.csproj.CoreCompileInputs.cache
+C:\Users\GameToGo\Desktop\新增資料夾\CS-Solution\WinFormsApp14\obj\Debug\net6.0-windows\WinFormsApp14.dll
+C:\Users\GameToGo\Desktop\新增資料夾\CS-Solution\WinFormsApp14\obj\Debug\net6.0-windows\refint\WinFormsApp14.dll
+C:\Users\GameToGo\Desktop\新增資料夾\CS-Solution\WinFormsApp14\obj\Debug\net6.0-windows\WinFormsApp14.pdb
+C:\Users\GameToGo\Desktop\新增資料夾\CS-Solution\WinFormsApp14\obj\Debug\net6.0-windows\WinFormsApp14.genruntimeconfig.cache
+C:\Users\GameToGo\Desktop\新增資料夾\CS-Solution\WinFormsApp14\obj\Debug\net6.0-windows\ref\WinFormsApp14.dll
