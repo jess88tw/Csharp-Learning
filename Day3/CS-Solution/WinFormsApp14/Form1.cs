@@ -8,7 +8,7 @@ namespace WinFormsApp14
             InitializeComponent();
         }
 
-        private void chkSame_CheckStateChanged(object sender, EventArgs e) // 如果點擊同上文字相等
+        private void chkSame_CheckStateChanged(object sender, EventArgs e)
         {
             if (chkSame.Checked)
                 txtB.Text = txtA.Text;

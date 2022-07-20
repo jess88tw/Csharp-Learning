@@ -1,0 +1,17 @@
+C:\Users\GameToGo\Desktop\Day3\CS-Solution\WinFormsApp04\bin\Debug\net6.0-windows\WinFormsApp04.exe
+C:\Users\GameToGo\Desktop\Day3\CS-Solution\WinFormsApp04\bin\Debug\net6.0-windows\WinFormsApp04.deps.json
+C:\Users\GameToGo\Desktop\Day3\CS-Solution\WinFormsApp04\bin\Debug\net6.0-windows\WinFormsApp04.runtimeconfig.json
+C:\Users\GameToGo\Desktop\Day3\CS-Solution\WinFormsApp04\bin\Debug\net6.0-windows\WinFormsApp04.dll
+C:\Users\GameToGo\Desktop\Day3\CS-Solution\WinFormsApp04\bin\Debug\net6.0-windows\WinFormsApp04.pdb
+C:\Users\GameToGo\Desktop\Day3\CS-Solution\WinFormsApp04\obj\Debug\net6.0-windows\WinFormsApp04.csproj.AssemblyReference.cache
+C:\Users\GameToGo\Desktop\Day3\CS-Solution\WinFormsApp04\obj\Debug\net6.0-windows\WinFormsApp04.Form1.resources
+C:\Users\GameToGo\Desktop\Day3\CS-Solution\WinFormsApp04\obj\Debug\net6.0-windows\WinFormsApp04.csproj.GenerateResource.cache
+C:\Users\GameToGo\Desktop\Day3\CS-Solution\WinFormsApp04\obj\Debug\net6.0-windows\WinFormsApp04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GameToGo\Desktop\Day3\CS-Solution\WinFormsApp04\obj\Debug\net6.0-windows\WinFormsApp04.AssemblyInfoInputs.cache
+C:\Users\GameToGo\Desktop\Day3\CS-Solution\WinFormsApp04\obj\Debug\net6.0-windows\WinFormsApp04.AssemblyInfo.cs
+C:\Users\GameToGo\Desktop\Day3\CS-Solution\WinFormsApp04\obj\Debug\net6.0-windows\WinFormsApp04.csproj.CoreCompileInputs.cache
+C:\Users\GameToGo\Desktop\Day3\CS-Solution\WinFormsApp04\obj\Debug\net6.0-windows\WinFormsApp04.dll
+C:\Users\GameToGo\Desktop\Day3\CS-Solution\WinFormsApp04\obj\Debug\net6.0-windows\refint\WinFormsApp04.dll
+C:\Users\GameToGo\Desktop\Day3\CS-Solution\WinFormsApp04\obj\Debug\net6.0-windows\WinFormsApp04.pdb
+C:\Users\GameToGo\Desktop\Day3\CS-Solution\WinFormsApp04\obj\Debug\net6.0-windows\WinFormsApp04.genruntimeconfig.cache
+C:\Users\GameToGo\Desktop\Day3\CS-Solution\WinFormsApp04\obj\Debug\net6.0-windows\ref\WinFormsApp04.dll

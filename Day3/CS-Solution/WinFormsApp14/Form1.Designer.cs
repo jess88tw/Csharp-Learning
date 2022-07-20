@@ -28,42 +28,45 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.txtA = new System.Windows.Forms.TextBox();
-            this.txtB = new System.Windows.Forms.TextBox();
             this.chkSame = new System.Windows.Forms.CheckBox();
+            this.txtB = new System.Windows.Forms.TextBox();
+            this.txtA = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
-            // 
-            // txtA
-            // 
-            this.txtA.Location = new System.Drawing.Point(66, 49);
-            this.txtA.Name = "txtA";
-            this.txtA.Size = new System.Drawing.Size(528, 38);
-            this.txtA.TabIndex = 0;
-            this.txtA.TextChanged += new System.EventHandler(this.chkSame_CheckStateChanged);
-            // 
-            // txtB
-            // 
-            this.txtB.Location = new System.Drawing.Point(66, 169);
-            this.txtB.Name = "txtB";
-            this.txtB.Size = new System.Drawing.Size(528, 38);
-            this.txtB.TabIndex = 1;
             // 
             // chkSame
             // 
             this.chkSame.AutoSize = true;
-            this.chkSame.Location = new System.Drawing.Point(66, 129);
+            this.chkSame.Location = new System.Drawing.Point(48, 75);
+            this.chkSame.Margin = new System.Windows.Forms.Padding(2);
             this.chkSame.Name = "chkSame";
-            this.chkSame.Size = new System.Drawing.Size(93, 34);
-            this.chkSame.TabIndex = 2;
+            this.chkSame.Size = new System.Drawing.Size(50, 19);
+            this.chkSame.TabIndex = 5;
             this.chkSame.Text = "同上";
             this.chkSame.UseVisualStyleBackColor = true;
-            this.chkSame.CheckStateChanged += new System.EventHandler(this.chkSame_CheckStateChanged);
+            this.chkSame.CheckedChanged += new System.EventHandler(this.chkSame_CheckStateChanged);
+            // 
+            // txtB
+            // 
+            this.txtB.Location = new System.Drawing.Point(48, 95);
+            this.txtB.Margin = new System.Windows.Forms.Padding(2);
+            this.txtB.Name = "txtB";
+            this.txtB.Size = new System.Drawing.Size(266, 23);
+            this.txtB.TabIndex = 4;
+            // 
+            // txtA
+            // 
+            this.txtA.Location = new System.Drawing.Point(48, 35);
+            this.txtA.Margin = new System.Windows.Forms.Padding(2);
+            this.txtA.Name = "txtA";
+            this.txtA.Size = new System.Drawing.Size(266, 23);
+            this.txtA.TabIndex = 3;
+            this.txtA.TextChanged += new System.EventHandler(this.chkSame_CheckStateChanged);
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(14F, 30F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(655, 267);
+            this.ClientSize = new System.Drawing.Size(363, 153);
             this.Controls.Add(this.chkSame);
             this.Controls.Add(this.txtB);
             this.Controls.Add(this.txtA);
@@ -76,8 +79,8 @@
 
         #endregion
 
-        private TextBox txtA;
-        private TextBox txtB;
         private CheckBox chkSame;
+        private TextBox txtB;
+        private TextBox txtA;
     }
 }

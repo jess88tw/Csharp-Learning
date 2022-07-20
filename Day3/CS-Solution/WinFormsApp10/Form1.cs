@@ -37,7 +37,7 @@ namespace WinFormsApp10
             }
         }
 
-        private void btnQuit_Click(object sender, EventArgs e) // ¦Û­qÂ÷¶}«Ø
+        private void btnQuit_Click(object sender, EventArgs e)
         {
             Close();
         }

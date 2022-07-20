@@ -8,6 +8,13 @@ namespace WinFormsApp16
             InitializeComponent();
         }
 
+        // 當有文字在格子裡可以全選
+        private void txt_Enter(object sender, EventArgs e)
+        {
+            TextBox txt = (TextBox)sender;
+            txt.SelectAll();
+        }
+
         private void txt_KeyDown(object sender, KeyEventArgs e)
         {
             switch (e.KeyCode)
@@ -22,12 +29,6 @@ namespace WinFormsApp16
                 default:
                     break;
             }
-        }
-
-        private void txt_Enter(object sender, EventArgs e) // 當有文字在格子裡可以全選
-        {
-            TextBox txt = (TextBox)sender;
-            txt.SelectAll();
         }
     }
 }

@@ -28,77 +28,84 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.lblGuess = new System.Windows.Forms.Label();
-            this.txtGuess = new System.Windows.Forms.TextBox();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.btnStart = new System.Windows.Forms.Button();
-            this.btnGuess = new System.Windows.Forms.Button();
             this.btnQuit = new System.Windows.Forms.Button();
+            this.btnGuess = new System.Windows.Forms.Button();
+            this.btnStart = new System.Windows.Forms.Button();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.txtGuess = new System.Windows.Forms.TextBox();
+            this.lblGuess = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
-            // lblGuess
+            // btnQuit
             // 
-            this.lblGuess.AutoSize = true;
-            this.lblGuess.Location = new System.Drawing.Point(61, 89);
-            this.lblGuess.Name = "lblGuess";
-            this.lblGuess.Size = new System.Drawing.Size(85, 30);
-            this.lblGuess.TabIndex = 0;
-            this.lblGuess.Text = "1 ~ 99";
+            this.btnQuit.Location = new System.Drawing.Point(256, 198);
+            this.btnQuit.Margin = new System.Windows.Forms.Padding(2);
+            this.btnQuit.Name = "btnQuit";
+            this.btnQuit.Size = new System.Drawing.Size(75, 23);
+            this.btnQuit.TabIndex = 9;
+            this.btnQuit.Text = "離開";
+            this.btnQuit.UseVisualStyleBackColor = true;
+            this.btnQuit.Click += new System.EventHandler(this.btnQuit_Click);
             // 
-            // txtGuess
+            // btnGuess
             // 
-            this.txtGuess.Location = new System.Drawing.Point(177, 89);
-            this.txtGuess.Name = "txtGuess";
-            this.txtGuess.Size = new System.Drawing.Size(200, 38);
-            this.txtGuess.TabIndex = 1;
+            this.btnGuess.Location = new System.Drawing.Point(139, 198);
+            this.btnGuess.Margin = new System.Windows.Forms.Padding(2);
+            this.btnGuess.Name = "btnGuess";
+            this.btnGuess.Size = new System.Drawing.Size(75, 23);
+            this.btnGuess.TabIndex = 8;
+            this.btnGuess.Text = "猜";
+            this.btnGuess.UseVisualStyleBackColor = true;
+            this.btnGuess.Click += new System.EventHandler(this.btnGuess_Click);
+            // 
+            // btnStart
+            // 
+            this.btnStart.Location = new System.Drawing.Point(23, 198);
+            this.btnStart.Margin = new System.Windows.Forms.Padding(2);
+            this.btnStart.Name = "btnStart";
+            this.btnStart.Size = new System.Drawing.Size(75, 23);
+            this.btnStart.TabIndex = 7;
+            this.btnStart.Text = "開始";
+            this.btnStart.UseVisualStyleBackColor = true;
+            this.btnStart.Click += new System.EventHandler(this.btnStart_Click);
             // 
             // groupBox1
             // 
             this.groupBox1.Controls.Add(this.txtGuess);
             this.groupBox1.Controls.Add(this.lblGuess);
-            this.groupBox1.Location = new System.Drawing.Point(173, 25);
+            this.groupBox1.Location = new System.Drawing.Point(66, 34);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(2);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(441, 250);
-            this.groupBox1.TabIndex = 2;
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(2);
+            this.groupBox1.Size = new System.Drawing.Size(220, 125);
+            this.groupBox1.TabIndex = 6;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "猜數字";
             // 
-            // btnStart
+            // txtGuess
             // 
-            this.btnStart.Location = new System.Drawing.Point(107, 342);
-            this.btnStart.Name = "btnStart";
-            this.btnStart.Size = new System.Drawing.Size(150, 46);
-            this.btnStart.TabIndex = 3;
-            this.btnStart.Text = "開始";
-            this.btnStart.UseVisualStyleBackColor = true;
-            this.btnStart.Click += new System.EventHandler(this.btnStart_Click);
+            this.txtGuess.Location = new System.Drawing.Point(88, 44);
+            this.txtGuess.Margin = new System.Windows.Forms.Padding(2);
+            this.txtGuess.Name = "txtGuess";
+            this.txtGuess.Size = new System.Drawing.Size(102, 23);
+            this.txtGuess.TabIndex = 1;
             // 
-            // btnGuess
+            // lblGuess
             // 
-            this.btnGuess.Location = new System.Drawing.Point(341, 342);
-            this.btnGuess.Name = "btnGuess";
-            this.btnGuess.Size = new System.Drawing.Size(150, 46);
-            this.btnGuess.TabIndex = 4;
-            this.btnGuess.Text = "猜";
-            this.btnGuess.UseVisualStyleBackColor = true;
-            this.btnGuess.Click += new System.EventHandler(this.btnGuess_Click);
-            // 
-            // btnQuit
-            // 
-            this.btnQuit.Location = new System.Drawing.Point(574, 342);
-            this.btnQuit.Name = "btnQuit";
-            this.btnQuit.Size = new System.Drawing.Size(150, 46);
-            this.btnQuit.TabIndex = 5;
-            this.btnQuit.Text = "離開";
-            this.btnQuit.UseVisualStyleBackColor = true;
-            this.btnQuit.Click += new System.EventHandler(this.btnQuit_Click);
+            this.lblGuess.AutoSize = true;
+            this.lblGuess.Location = new System.Drawing.Point(29, 43);
+            this.lblGuess.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.lblGuess.Name = "lblGuess";
+            this.lblGuess.Size = new System.Drawing.Size(43, 15);
+            this.lblGuess.TabIndex = 0;
+            this.lblGuess.Text = "1 ~ 99";
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(14F, 30F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(350, 253);
             this.Controls.Add(this.btnQuit);
             this.Controls.Add(this.btnGuess);
             this.Controls.Add(this.btnStart);
@@ -113,11 +120,11 @@
 
         #endregion
 
-        private Label lblGuess;
-        private TextBox txtGuess;
-        private GroupBox groupBox1;
-        private Button btnStart;
-        private Button btnGuess;
         private Button btnQuit;
+        private Button btnGuess;
+        private Button btnStart;
+        private GroupBox groupBox1;
+        private TextBox txtGuess;
+        private Label lblGuess;
     }
 }

@@ -1,3 +1,4 @@
+// 要先同時到事件去設定 btn_Click
 namespace WinFormsApp11
 {
     public partial class Form1 : Form
@@ -6,6 +7,7 @@ namespace WinFormsApp11
         {
             InitializeComponent();
         }
+
         // boxing(盒裝)
         private void btn_Click(object sender, EventArgs e)
         {

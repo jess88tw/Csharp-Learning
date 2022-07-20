@@ -28,68 +28,73 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.btnLine = new System.Windows.Forms.Button();
-            this.btnRectangle = new System.Windows.Forms.Button();
-            this.btnEllipse = new System.Windows.Forms.Button();
-            this.textData = new System.Windows.Forms.TextBox();
             this.picBox = new System.Windows.Forms.PictureBox();
+            this.textData = new System.Windows.Forms.TextBox();
+            this.btnEllipse = new System.Windows.Forms.Button();
+            this.btnRectangle = new System.Windows.Forms.Button();
+            this.btnLine = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.picBox)).BeginInit();
             this.SuspendLayout();
-            // 
-            // btnLine
-            // 
-            this.btnLine.Location = new System.Drawing.Point(811, 74);
-            this.btnLine.Name = "btnLine";
-            this.btnLine.Size = new System.Drawing.Size(150, 46);
-            this.btnLine.TabIndex = 0;
-            this.btnLine.Text = "Line";
-            this.btnLine.UseVisualStyleBackColor = true;
-            this.btnLine.Click += new System.EventHandler(this.btnLine_Click);
-            // 
-            // btnRectangle
-            // 
-            this.btnRectangle.Location = new System.Drawing.Point(811, 174);
-            this.btnRectangle.Name = "btnRectangle";
-            this.btnRectangle.Size = new System.Drawing.Size(150, 46);
-            this.btnRectangle.TabIndex = 1;
-            this.btnRectangle.Text = "Rectange";
-            this.btnRectangle.UseVisualStyleBackColor = true;
-            this.btnRectangle.Click += new System.EventHandler(this.btnRectangle_Click);
-            // 
-            // btnEllipse
-            // 
-            this.btnEllipse.Location = new System.Drawing.Point(811, 272);
-            this.btnEllipse.Name = "btnEllipse";
-            this.btnEllipse.Size = new System.Drawing.Size(150, 46);
-            this.btnEllipse.TabIndex = 2;
-            this.btnEllipse.Text = "Ellipse";
-            this.btnEllipse.UseVisualStyleBackColor = true;
-            this.btnEllipse.Click += new System.EventHandler(this.btnEllipse_Click);
-            // 
-            // textData
-            // 
-            this.textData.Location = new System.Drawing.Point(78, 567);
-            this.textData.Name = "textData";
-            this.textData.Size = new System.Drawing.Size(883, 38);
-            this.textData.TabIndex = 3;
             // 
             // picBox
             // 
             this.picBox.BackColor = System.Drawing.Color.White;
             this.picBox.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.picBox.Location = new System.Drawing.Point(78, 76);
+            this.picBox.Location = new System.Drawing.Point(33, 27);
+            this.picBox.Margin = new System.Windows.Forms.Padding(2);
             this.picBox.Name = "picBox";
-            this.picBox.Size = new System.Drawing.Size(711, 467);
-            this.picBox.TabIndex = 4;
+            this.picBox.Size = new System.Drawing.Size(358, 236);
+            this.picBox.TabIndex = 9;
             this.picBox.TabStop = false;
             this.picBox.MouseDown += new System.Windows.Forms.MouseEventHandler(this.picBox_MouseDown);
             this.picBox.MouseMove += new System.Windows.Forms.MouseEventHandler(this.picBox_MouseMove);
             // 
+            // textData
+            // 
+            this.textData.Location = new System.Drawing.Point(33, 273);
+            this.textData.Margin = new System.Windows.Forms.Padding(2);
+            this.textData.Name = "textData";
+            this.textData.Size = new System.Drawing.Size(444, 23);
+            this.textData.TabIndex = 8;
+            // 
+            // btnEllipse
+            // 
+            this.btnEllipse.Location = new System.Drawing.Point(400, 125);
+            this.btnEllipse.Margin = new System.Windows.Forms.Padding(2);
+            this.btnEllipse.Name = "btnEllipse";
+            this.btnEllipse.Size = new System.Drawing.Size(75, 23);
+            this.btnEllipse.TabIndex = 7;
+            this.btnEllipse.Text = "Ellipse";
+            this.btnEllipse.UseVisualStyleBackColor = true;
+            this.btnEllipse.Click += new System.EventHandler(this.btnEllipse_Click);
+            // 
+            // btnRectangle
+            // 
+            this.btnRectangle.Location = new System.Drawing.Point(400, 76);
+            this.btnRectangle.Margin = new System.Windows.Forms.Padding(2);
+            this.btnRectangle.Name = "btnRectangle";
+            this.btnRectangle.Size = new System.Drawing.Size(75, 23);
+            this.btnRectangle.TabIndex = 6;
+            this.btnRectangle.Text = "Rectange";
+            this.btnRectangle.UseVisualStyleBackColor = true;
+            this.btnRectangle.Click += new System.EventHandler(this.btnRectangle_Click);
+            // 
+            // btnLine
+            // 
+            this.btnLine.Location = new System.Drawing.Point(400, 26);
+            this.btnLine.Margin = new System.Windows.Forms.Padding(2);
+            this.btnLine.Name = "btnLine";
+            this.btnLine.Size = new System.Drawing.Size(75, 23);
+            this.btnLine.TabIndex = 5;
+            this.btnLine.Text = "Line";
+            this.btnLine.UseVisualStyleBackColor = true;
+            this.btnLine.Click += new System.EventHandler(this.btnLine_Click);
+            // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(14F, 30F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1009, 664);
+            this.ClientSize = new System.Drawing.Size(511, 323);
             this.Controls.Add(this.picBox);
             this.Controls.Add(this.textData);
             this.Controls.Add(this.btnEllipse);
@@ -105,10 +110,10 @@
 
         #endregion
 
-        private Button btnLine;
-        private Button btnRectangle;
-        private Button btnEllipse;
-        private TextBox textData;
         private PictureBox picBox;
+        private TextBox textData;
+        private Button btnEllipse;
+        private Button btnRectangle;
+        private Button btnLine;
     }
 }

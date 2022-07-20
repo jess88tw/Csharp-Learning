@@ -9,6 +9,12 @@ namespace WinFormsApp13
             InitializeComponent();
         }
 
+        private void picBox_MouseDown(object sender, MouseEventArgs e)
+        {
+            x0 = e.X;
+            y0 = e.Y;
+        }
+
         private void picBox_MouseMove(object sender, MouseEventArgs e)
         {
             if (e.Button == MouseButtons.Left)
@@ -19,12 +25,6 @@ namespace WinFormsApp13
                 y0 = e.Y;
             }
             textData.Text = String.Format("X = {0}, Y = {1}, Button = {2}", e.X, e.Y, e.Button); // Åã¥Ü·Æ¹«¦ì¸m
-        }
-
-        private void picBox_MouseDown(object sender, MouseEventArgs e)
-        {
-            x0 = e.X;
-            y0 = e.Y;
         }
 
         private void btnLine_Click(object sender, EventArgs e)
@@ -38,7 +38,7 @@ namespace WinFormsApp13
             Graphics g = picBox.CreateGraphics();
             g.DrawRectangle(new Pen(Color.Green), 10, 10, 100, 100);
         }
-        
+
         private void btnEllipse_Click(object sender, EventArgs e)
         {
             Graphics g = picBox.CreateGraphics();
