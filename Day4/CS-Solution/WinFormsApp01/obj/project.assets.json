@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GameToGo\\Desktop\\Day4\\CS-Solution\\WinFormsApp01\\WinFormsApp01.csproj",
+      "projectUniqueName": "C:\\Users\\GameToGo\\Csharp-Learning\\Day4\\CS-Solution\\WinFormsApp01\\WinFormsApp01.csproj",
       "projectName": "WinFormsApp01",
-      "projectPath": "C:\\Users\\GameToGo\\Desktop\\Day4\\CS-Solution\\WinFormsApp01\\WinFormsApp01.csproj",
+      "projectPath": "C:\\Users\\GameToGo\\Csharp-Learning\\Day4\\CS-Solution\\WinFormsApp01\\WinFormsApp01.csproj",
       "packagesPath": "C:\\Users\\GameToGo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GameToGo\\Desktop\\Day4\\CS-Solution\\WinFormsApp01\\obj\\",
+      "outputPath": "C:\\Users\\GameToGo\\Csharp-Learning\\Day4\\CS-Solution\\WinFormsApp01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GameToGo\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -5,15 +5,17 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp01", "WinFormsApp01\WinFormsApp01.csproj", "{F0BF90DA-D6AF-4DC1-8726-5929F7952D15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp02", "WinFormsApp02\WinFormsApp02.csproj", "{317D385E-7BED-4582-A9EF-361739C29695}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp02", "WinFormsApp02\WinFormsApp02.csproj", "{317D385E-7BED-4582-A9EF-361739C29695}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp03", "WinFormsApp03\WinFormsApp03.csproj", "{F2BA459F-C54B-465D-AA75-C43687AA10B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp03", "WinFormsApp03\WinFormsApp03.csproj", "{F2BA459F-C54B-465D-AA75-C43687AA10B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp04", "WinFormsApp04\WinFormsApp04.csproj", "{D47583F3-EE58-4C51-A0C0-A9328DB1DC8D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp04", "WinFormsApp04\WinFormsApp04.csproj", "{D47583F3-EE58-4C51-A0C0-A9328DB1DC8D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp05", "WinFormsApp05\WinFormsApp05.csproj", "{5A92877B-3FA6-4378-8138-2D408B1B935D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp05", "WinFormsApp05\WinFormsApp05.csproj", "{5A92877B-3FA6-4378-8138-2D408B1B935D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp06", "WinFormsApp06\WinFormsApp06.csproj", "{992BBAC4-9B17-45CD-9596-1CCDD8B3552B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WinFormsApp06", "WinFormsApp06\WinFormsApp06.csproj", "{992BBAC4-9B17-45CD-9596-1CCDD8B3552B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLDB", "SQLDB\SQLDB.csproj", "{5B8FA624-F4ED-4DBF-8FCB-A900A708E5F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{992BBAC4-9B17-45CD-9596-1CCDD8B3552B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{992BBAC4-9B17-45CD-9596-1CCDD8B3552B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{992BBAC4-9B17-45CD-9596-1CCDD8B3552B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B8FA624-F4ED-4DBF-8FCB-A900A708E5F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B8FA624-F4ED-4DBF-8FCB-A900A708E5F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B8FA624-F4ED-4DBF-8FCB-A900A708E5F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B8FA624-F4ED-4DBF-8FCB-A900A708E5F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
